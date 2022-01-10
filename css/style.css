@@ -1,0 +1,12 @@
+ .vid{
+      height: 30em;
+        width: 30em;
+        display: inline-block;
+}
+body{
+    background-color: rgb(175, 182, 182) ;
+}
+.emoji{
+    height: 2em;
+    width: 3em;
+}
